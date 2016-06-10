@@ -1,0 +1,6 @@
+\\wfs-vmf1-001\fi5h$\werle\visual studio 2013\Projects\cipher\cipher\bin\Debug\cipher.exe.config
+\\wfs-vmf1-001\fi5h$\werle\visual studio 2013\Projects\cipher\cipher\obj\Debug\cipher.csprojResolveAssemblyReference.cache
+\\wfs-vmf1-001\fi5h$\werle\visual studio 2013\Projects\cipher\cipher\bin\Debug\cipher.exe
+\\wfs-vmf1-001\fi5h$\werle\visual studio 2013\Projects\cipher\cipher\bin\Debug\cipher.pdb
+\\wfs-vmf1-001\fi5h$\werle\visual studio 2013\Projects\cipher\cipher\obj\Debug\cipher.exe
+\\wfs-vmf1-001\fi5h$\werle\visual studio 2013\Projects\cipher\cipher\obj\Debug\cipher.pdb
